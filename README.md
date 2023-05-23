@@ -1,4 +1,4 @@
-# AJEx
+# Armchair Graphene Nanoribbon Junctions Explorer (AJEx)
 
 ## How to cite
 
