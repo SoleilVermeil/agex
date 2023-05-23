@@ -15,7 +15,7 @@
 If you use this tool, please cite the following works:
 
 * **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization**
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx)**
 
 You can also use the following BibTeX citation.
 
