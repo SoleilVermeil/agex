@@ -1,6 +1,6 @@
-# AJEx (Armchair Graphene Nanoribbon Junctions Explorer)
+# SAJEx (Smoothened Armchair Graphene Nanoribbon Junctions Explorer)
 
-**AJEx** is a simple interface that let you explore a large variety of armchair graphene nanoribbon junctions.
+**SAJEx** is a simple interface that let you explore a large variety of armchair graphene nanoribbon junctions.
 
 ## Usage
 
@@ -15,7 +15,7 @@
 If you use this tool, please cite the following works:
 
 * **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization**
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Armchair Graphene Nanoribbon Junctions Explorer**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx)**
 
 You can also use the following BibTeX citation.
 
@@ -30,7 +30,7 @@ You can also use the following BibTeX citation.
 
 @misc{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
-  title = {Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
+  title = {Smoothed Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
   url = {https://github.com/SoleilVermeil/ajex},
   organization = {tbd},
   doi = {tbd},
