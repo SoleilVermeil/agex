@@ -1,5 +1,30 @@
 # AJEx
 
+## How to cite
+
+If you use this tool, please cite the following works:
+
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Armchair Graphene Nanoribbon Junctions Explorer**
+
+You can also use the following BibTeX citation.
+
+```bibtex
+@article{Leu23_1,
+  author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
+  title = {Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization},
+  doi = {tbd},
+  volume = {tbd},
+  journal = {tbd}
+}
+
+@misc{Leu23_2,
+  author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
+  title = {Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
+  url = {https://github.com/SoleilVermeil/ajex}
+}
+```
+
 ## How to use
 
 1. Make sure the following are installed:
