@@ -1,5 +1,15 @@
 # AJEx (Armchair Graphene Nanoribbon Junctions Explorer)
 
+**AJEx** is a simple interface that let you explore a large variety of armchair graphene nanoribbon junctions.
+
+## Usage
+
+1. Make sure the following are installed:
+* `voila >= 0.4.0`
+* `ipywidgets >= 8.0.6`
+* `voila-materialscloud-template`. **The following might downgrade voila !**
+2. Run `voila --template=materialscloud-tool ajex.ipynb` or `sh voila.sh`.
+
 ## How to cite
 
 If you use this tool, please cite the following works:
@@ -26,11 +36,6 @@ You can also use the following BibTeX citation.
   doi = {tbd},
 }
 ```
+## License
 
-## How to use
-
-1. Make sure the following are installed:
-* `voila >= 0.4.0`
-* `ipywidgets >= 8.0.6`
-* `voila-materialscloud-template`. **The following might downgrade voila !**
-2. Run `voila --template=materialscloud-tool ajex.ipynb` or `sh voila.sh`.
+MIT. The terms of the license can be found in the LICENSE file.
