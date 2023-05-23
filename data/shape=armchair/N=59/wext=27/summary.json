@@ -1,0 +1,13 @@
+{
+    "shape":"armchair",
+    "N":59.0,
+    "wext":27.0,
+    "tau_around_0p00_ev":0.6994603119,
+    "tau_around_0p01_ev":0.6994962113,
+    "tau_around_0p10_ev":0.6994965697,
+    "edge_length":110.0,
+    "edge_sequence":"XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX",
+    "armchair_ratio":0.9818181818,
+    "zigzag_ratio":0.0,
+    "other_ratio":0.0181818182
+}

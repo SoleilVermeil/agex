@@ -1,0 +1,13 @@
+{
+    "shape":"zigzag",
+    "N":44.0,
+    "wext":2.0,
+    "tau_around_0p00_ev":0.9991862069,
+    "tau_around_0p01_ev":0.9991809989,
+    "tau_around_0p10_ev":0.9991809481,
+    "edge_length":8.0,
+    "edge_sequence":"ZZZAAZZZ",
+    "armchair_ratio":0.25,
+    "zigzag_ratio":0.75,
+    "other_ratio":0.0
+}
