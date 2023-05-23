@@ -13,15 +13,17 @@ You can also use the following BibTeX citation.
 @article{Leu23_1,
   author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
   title = {Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization},
-  doi = {tbd},
   volume = {tbd},
-  journal = {tbd}
+  journal = {tbd},
+  doi = {tbd},
 }
 
 @misc{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
   title = {Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
-  url = {https://github.com/SoleilVermeil/ajex}
+  url = {https://github.com/SoleilVermeil/ajex},
+  organization = {tbd},
+  doi = {tbd},
 }
 ```
 
