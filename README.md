@@ -21,7 +21,7 @@ You can also use the following BibTeX citation.
 
 ```bibtex
 @article{Leu23_1,
-  author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
+  author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
   title = {Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization},
   volume = {tbd},
   journal = {tbd},
@@ -29,7 +29,7 @@ You can also use the following BibTeX citation.
 }
 
 @misc{Leu23_2,
-  author = {Leuenberger, Julien and Čerņevičs, Kristians and Yazyev, Oleg},
+  author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
   title = {Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
   url = {https://github.com/SoleilVermeil/ajex},
   organization = {tbd},
