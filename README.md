@@ -30,7 +30,7 @@ You can also use the following BibTeX citation.
 
 @misc{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
-  title = {Smoothed Armchair Graphene Nanoribbon Junction Explorer (AJEx)},
+  title = {Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx)},
   url = {https://github.com/SoleilVermeil/ajex},
   organization = {tbd},
   doi = {tbd},
