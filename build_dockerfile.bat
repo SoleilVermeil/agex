@@ -1,3 +1,3 @@
-docker build -t ajex .
-docker save -o ajex.tar ajex
+docker build -t sajex .
+docker save -o sajex.tar sajex
 PAUSE

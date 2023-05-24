@@ -1,1 +1,1 @@
-voila --template=materialscloud-tool sajex.ipynb
+voila --template=materialscloud-tool SAJEx.ipynb
