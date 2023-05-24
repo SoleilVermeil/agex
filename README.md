@@ -4,11 +4,21 @@
 
 ## Usage
 
+### Run locally
+
 1. Make sure the following are installed:
 * `voila >= 0.4.0`
 * `ipywidgets >= 8.0.6`
 * `voila-materialscloud-template`. **The following might downgrade voila !**
 2. Run `voila --template=materialscloud-tool ajex.ipynb` or `sh voila.sh`.
+
+### Use Dockerfile
+
+1. Build the docker image using `docker build -t sajex`.
+2. Retrieve the docker image using `docker save -o sajex.tar sajex`.
+3. Create a docker container. Add the path `/data` that points to the `data/` folder.
+4. Run the docker container using `docker run -p 8866:8866 sajex`.
+5. Access it on `localhost:8866` **although the console might indicate another address**.
 
 ## How to cite
 

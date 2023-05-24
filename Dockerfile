@@ -1,10 +1,12 @@
 # Use the official Jupyter base image
-FROM jupyter/base-notebook
+# FROM jupyter/base-notebook
+FROM jupyter/minimal-notebook
 
 # Copy your requirements file to the container
 COPY requirements.txt /tmp/requirements.txt
 
 # Install dependencies
+RUN pip install --no-cache-dir --no-deps jupyter
 RUN pip install --no-cache-dir -r /tmp/requirements.txt
 RUN pip install --no-cache-dir --no-deps voila-materialscloud-template==0.3.14
 
