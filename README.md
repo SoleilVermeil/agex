@@ -2,6 +2,8 @@
 
 **SAJEx** is a simple interface that let you explore a large variety of armchair graphene nanoribbon junctions.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SoleilVermeil/sajex/main?urlpath=%2Fvoila%2Frender%2FSAJEx.ipynb)
+
 ## Usage
 
 ### Run locally
