@@ -14,7 +14,7 @@
 
 ### Use Dockerfile
 
-1. Build the docker image using `docker build -t sajex`.
+1. Build the docker image using `docker build -t sajex .`.
 2. Retrieve the docker image using `docker save -o sajex.tar sajex`.
 3. Create a docker container. Add the path `/data` that points to the `data/` folder.
 4. Run the docker container using `docker run -p 8866:8866 sajex`.
