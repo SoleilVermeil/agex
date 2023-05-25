@@ -12,7 +12,7 @@ RUN pip install --no-cache-dir --no-deps voila-materialscloud-template==0.3.14
 
 # Copy your Jupyter Notebook to the container
 COPY SAJEx.ipynb /home/jovyan/SAJEx.ipynb
-# COPY data /home/jovyan/data
+COPY data /home/jovyan/data
 
 # Expose the default Voila port
 EXPOSE 8866
