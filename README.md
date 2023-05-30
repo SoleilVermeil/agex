@@ -26,8 +26,8 @@
 
 If you use this tool, please cite the following works:
 
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization**
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx)**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization, tbd**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx), doi:10.tbd/tbd**
 
 You can also use the following BibTeX citation.
 
@@ -37,7 +37,6 @@ You can also use the following BibTeX citation.
   title = {Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization},
   volume = {tbd},
   journal = {tbd},
-  doi = {tbd},
 }
 
 @misc{Leu23_2,
@@ -45,7 +44,7 @@ You can also use the following BibTeX citation.
   title = {Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx)},
   url = {https://github.com/SoleilVermeil/ajex},
   organization = {tbd},
-  doi = {tbd},
+  note = {doi:10.tbd/tbd},
 }
 ```
 ## License
