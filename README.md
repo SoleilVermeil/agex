@@ -50,4 +50,4 @@ You can also use the following BibTeX citation.
 ```
 ## License
 
-MIT. The terms of the license can be found in the LICENSE file.
+MIT. The terms of the license can be found in the [LICENSE](LICENSE) file.
