@@ -1,21 +1,17 @@
 # Use the official Jupyter base image
-# FROM jupyter/base-notebook
-FROM jupyter/minimal-notebook
-
-# Copy your requirements file to the container
-COPY requirements.txt /tmp/requirements.txt
+# FROM jupyter/minimal-notebook
+FROM ubuntu:latest
 
 # Install dependencies
-RUN pip install --no-cache-dir --no-deps jupyter
-RUN pip install --no-cache-dir -r /tmp/requirements.txt
-RUN pip install --no-cache-dir --no-deps voila-materialscloud-template==0.3.14
+RUN apt-get -y update
+RUN apt-get -y install git
+RUN apt-get -y install python3
+RUN apt-get -y install python3-pip
+RUN apt-get clean
 
-# Copy your Jupyter Notebook to the container
-COPY SAJEx.ipynb /home/jovyan/SAJEx.ipynb
-COPY data /home/jovyan/data
-
-# Expose the default Voila port
-EXPOSE 8866
+COPY requirements.txt /tmp/
 
 # Launch Voila when the container starts
-CMD ["voila", "--no-browser", "--port=8866", "--Voila.ip=0.0.0.0", "--template=materialscloud-tool", "/home/jovyan/SAJEx.ipynb"]
+CMD pip install --no-cache-dir notebook; pip install --no-cache-dir -r /tmp/requirements.txt; pip install --no-cache-dir --no-deps voila-materialscloud-template==0.3.14; git clone https://github.com/SoleilVermeil/sajex.git --verbose --progress; voila --no-browser --port=8866 --Voila.ip=0.0.0.0 --template=materialscloud-tool /sajex/SAJEx.ipynb
+# CMD ["git", "clone", "https://github.com/SoleilVermeil/sajex.git", "--verbose", "--progress"]
+# CMD ["voila", "--no-browser", "--port=8866", "--Voila.ip=0.0.0.0", "--template=materialscloud-tool", "/home/jovyan/SAJEx.ipynb"]
