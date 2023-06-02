@@ -18,15 +18,14 @@
 
 1. Build the docker image using `docker build -t sajex .`.
 2. Retrieve the docker image using `docker save -o sajex.tar sajex`.
-3. Create a docker container. Add the path `/data` that points to the `data/` folder.
-4. Run the docker container using `docker run -p 8866:8866 sajex`.
-5. Access it on `localhost:8866` **although the console might indicate another address**.
+3. Run the docker container using `docker run -p 8866:8866 sajex`.
+4. Access it on `<host ip>:8866` **although the console might indicate another address**.
 
 ## How to cite
 
 If you use this tool, please cite the following works:
 
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization, tbd**
+* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Nanoelectronics Footprint by Rounding Graphene Nanoribbon Junctions, tbd**
 * **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx), doi:10.tbd/tbd**
 
 You can also use the following BibTeX citation.
@@ -34,7 +33,7 @@ You can also use the following BibTeX citation.
 ```bibtex
 @article{Leu23_1,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
-  title = {Optimizing Graphene-Based Nanoelectronics via Junction Edge Characterization},
+  title = {Optimizing Nanoelectronics Footprint by Rounding Graphene Nanoribbon Junctions},
   volume = {tbd},
   journal = {tbd},
 }
