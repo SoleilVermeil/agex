@@ -163,3 +163,4 @@ cython_debug/
 *.tar
 /old
 *.zip
+mass_edit.py
