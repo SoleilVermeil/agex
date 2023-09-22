@@ -26,7 +26,7 @@
 If you use this tool, please cite the following works:
 
 * **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Nanoelectronics Footprint by Rounding Graphene Nanoribbon Junctions, tbd**
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Smoothed Armchair Graphene Nanoribbon Junctions Explorer (SAJEx), doi:10.tbd/tbd**
+* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Simple angled graphene nanoribbon junctions dataset, Materials Cloud Archive **2023.X** (2023), doi:10.24435/materialscloud:jx-02
 
 You can also use the following BibTeX citation.
 
@@ -40,10 +40,10 @@ You can also use the following BibTeX citation.
 
 @misc{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
-  title = {Smoothed Armchair Graphene Nanoribbon Junctions Explorer ({SAJEx})},
-  url = {https://github.com/SoleilVermeil/ajex},
-  organization = {tbd},
-  note = {doi:10.tbd/tbd},
+  title = {Simple angled graphene nanoribbon junctions dataset},
+  url = {https://doi.org/10.24435/materialscloud:jx-02},
+  organization = {Materials Cloud Archive},
+  note = {doi:10.24435/materialscloud:jx-02},
 }
 ```
 ## License
