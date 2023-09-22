@@ -1,4 +1,4 @@
-edge_index;vertex_1_index;vertex_2_index;current
+edge_index;vertex_1_index;vertex_2_index;probabilitycurrent
 0;0;1972;-2.8195753560261936e-08
 1;0;1973;2.8195753560261936e-08
 2;1;1973;-4.112213176299652e-07
