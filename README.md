@@ -38,11 +38,12 @@ You can also use the following BibTeX citation.
   journal = {tbd},
 }
 
-@misc{Leu23_2,
+@article{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
   title = {Simple angled graphene nanoribbon junctions dataset},
-  url = {https://doi.org/10.24435/materialscloud:jx-02},
-  organization = {Materials Cloud Archive},
+  journal = {Materials Cloud Archive},
+  volume = {2023.X},
+  year = {2023},
   note = {doi:10.24435/materialscloud:jx-02},
 }
 ```
