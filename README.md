@@ -25,8 +25,8 @@
 
 If you use this tool, please cite the following works:
 
-* **J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Nanoelectronics Footprint by Rounding Graphene Nanoribbon Junctions, tbd**
-* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Simple angled graphene nanoribbon junctions dataset, Materials Cloud Archive **2023.X** (2023), doi:10.24435/materialscloud:jx-02
+* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Optimizing Nanoelectronics Footprint by Rounding Graphene Nanoribbon Junctions, tbd
+* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Simple angled armchair graphene nanoribbon junctions dataset, Materials Cloud Archive **2023.X** (2023), doi:10.24435/materialscloud:jx-02
 
 You can also use the following BibTeX citation.
 
@@ -40,7 +40,7 @@ You can also use the following BibTeX citation.
 
 @article{Leu23_2,
   author = {Leuenberger, Julien and Čerņevičs, Kristiāns and Yazyev, Oleg V.},
-  title = {Simple angled graphene nanoribbon junctions dataset},
+  title = {Simple angled armchair graphene nanoribbon junctions dataset},
   journal = {Materials Cloud Archive},
   volume = {2023.X},
   year = {2023},
