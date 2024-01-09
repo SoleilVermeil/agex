@@ -11,8 +11,8 @@
 1. Make sure the following are installed (for example using `pip install -r requirements.txt`):
 * `voila >= 0.4.0`
 * `ipywidgets >= 8.0.6`
-* `voila-materialscloud-template`. **The following might downgrade voila !**
-2. Run the app using `voila --template=materialscloud-tool SAJEx.ipynb`.
+* ~~`voila-materialscloud-template`. **The following might downgrade voila !**~~
+2. Run the app using ~~`voila --template=materialscloud-tool SAJEx.ipynb`~~ `voila SAJEx.ipynb`.
 
 ### Using Dockerfile
 
