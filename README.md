@@ -26,7 +26,7 @@
 If you use this tool, please cite the following works:
 
 * J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Charge carrier flow through trimmed nanoribbon junctions, tbd
-* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Simple angled armchair graphene nanoribbon junctions dataset, Materials Cloud Archive **2023.X** (2023), doi:10.24435/materialscloud:jx-02
+* J. Leuenberger, K. Čerņevičs, O. V. Yazyev, Trimmed graphene nanoribbon junctions dataset, Materials Cloud Archive **2023.X** (2023), doi:10.24435/materialscloud:jx-02
 
 You can also use the following BibTeX citation.
 
